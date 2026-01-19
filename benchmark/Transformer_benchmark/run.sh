@@ -1,0 +1,1 @@
+../../interchiplet/bin/interchiplet ./transformer.yaml > run.log 2>&1 &
